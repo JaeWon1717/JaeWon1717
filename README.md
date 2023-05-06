@@ -37,7 +37,7 @@
   <br>
 
 <center>
-<hr>
+  <hr> </hr>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwodnjs1)](https://solved.ac/qkrwodnjs1)
 
 ![JaeWon1717's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeWon1717&show_icons=true&theme=dark)
