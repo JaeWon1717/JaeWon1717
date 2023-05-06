@@ -43,7 +43,7 @@
 
 
 
-![JaeWon1717's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)  
+![JaeWon1717's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeWon1717&show_icons=true&theme=dark)  
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeWon1717&layout=compact&theme=dark)
