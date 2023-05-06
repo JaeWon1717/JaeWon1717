@@ -37,4 +37,4 @@
   <br>
 </div>
 <div align=center>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwodnjs1)](https://solved.ac/qkrwodnjs1)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwodnjs1)](https://solved.ac/qkrwodnjs1)</div>
