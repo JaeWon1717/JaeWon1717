@@ -48,3 +48,6 @@
 </center>
 
 </div>
+<div>
+<iframe width="1920" height="1080" src="https://www.youtube.com/embed/fAL1G2tY57s" title="[🔴LIVE] MAD vs. T1 | 브라켓 스테이지 Day2 | 2023 MSI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
